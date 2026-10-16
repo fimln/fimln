@@ -25,15 +25,6 @@ My name is **Alfi Maulana Akbar**.
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://alfi.ai.id/assets/icons/rust.svg" alt="Rust" width="40" height="40"/></a>
 </p>
 
-### Top 4 GitHub Repos
-
-<p align="left">
-<a href="https://github.com/fimln/RentHub"><img src="https://github-stats-extended.vercel.app/api/pin/?username=fimln&amp;repo=RentHub&amp;theme=react&amp;hide_border=true&amp;disable_animations=true" alt="RentHub pinned GitHub repository" width="49%"/></a>
-<a href="https://github.com/fimln/RouteFinder"><img src="https://github-stats-extended.vercel.app/api/pin/?username=fimln&amp;repo=RouteFinder&amp;theme=react&amp;hide_border=true&amp;disable_animations=true" alt="RouteFinder pinned GitHub repository" width="49%"/></a>
-<a href="https://github.com/fimln/SelfInstruct"><img src="https://github-stats-extended.vercel.app/api/pin/?username=fimln&amp;repo=SelfInstruct&amp;theme=react&amp;hide_border=true&amp;disable_animations=true" alt="SelfInstruct pinned GitHub repository" width="49%"/></a>
-<a href="https://github.com/fimln/GlobalHE"><img src="https://github-stats-extended.vercel.app/api/pin/?username=fimln&amp;repo=GlobalHE&amp;theme=react&amp;hide_border=true&amp;disable_animations=true" alt="GlobalHE pinned GitHub repository" width="49%"/></a>
-</p>
-
 ### GitHub Stats
 
 <p align="left">
