@@ -2,8 +2,8 @@
 
 My name is **Alfi Maulana Akbar**.
 
-🔭 Currently pursuing a Master’s degree in Computer Science at Universitas Gadjah Mada, Yogyakarta.
-☁️ My areas of interest include computer vision, local LLMs, cloud-based machine learning deployment, and GNU/Linux system administration.
+🔭 Currently pursuing a Master’s degree in Computer Science at Universitas Gadjah Mada, Yogyakarta.\
+☁️ My areas of interest include computer vision, local LLMs, cloud-based machine learning deployment, and GNU/Linux system administration.\
 📫 Connect with me: [Website](https://alfi.ai.id/), [Blog](https://blog.alfi.ai.id/), [LinkedIn](https://www.linkedin.com/in/fimln/) and [Instagram](https://www.instagram.com/alfimlnbr/).
 
 ### Languages and Tools
